@@ -113,7 +113,7 @@ require (
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5 // indirect
 	github.com/ugorji/go/codec v0.0.0-20190204201341-e444a5086c43 // indirect
 	go.etcd.io/etcd v3.3.10+incompatible
-	golang.org/x/time v0.0.0-20181108054448-85acf8d2951c // indirect
+	golang.org/x/time v0.0.0-20190525072443-9d24e82272b4 // indirect
 	google.golang.org/genproto v0.0.0-20190110221437-6909d8a4a91b // indirect
 	gopkg.in/asn1-ber.v1 v1.0.0-20181015200546-f715ec2f112d // indirect
 	gopkg.in/gorethink/gorethink.v4 v4.1.0 // indirect
