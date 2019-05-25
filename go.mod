@@ -82,7 +82,7 @@ require (
 	github.com/jeffchao/backoff v0.0.0-20140404060208-9d7fd7aa17f2 // indirect
 	github.com/jefferai/jsonx v1.0.0 // indirect
 	github.com/jinzhu/copier v0.0.0-20180308034124-7e38e58719c3
-	github.com/keybase/go-crypto v0.0.0-20181127160227-255a5089e85a // indirect
+	github.com/keybase/go-crypto v0.0.0-20190525064512-b785b22cc757 // indirect
 	github.com/lalamove/nui v0.2.0
 	github.com/mattbaird/elastigo v0.0.0-20170123220020-2fe47fd29e4b // indirect
 	github.com/michaelklishin/rabbit-hole v1.5.0 // indirect
