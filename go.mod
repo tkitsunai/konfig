@@ -89,7 +89,7 @@ require (
 	github.com/micro/go-config v1.0.0
 	github.com/mitchellh/copystructure v1.0.0 // indirect
 	github.com/mitchellh/go-testing-interface v1.0.0 // indirect
-	github.com/mitchellh/pointerstructure v0.0.0-20170205204203-f2329fcfa9e2 // indirect
+	github.com/mitchellh/pointerstructure v0.0.0-20190525072412-f252a8fd71c8 // indirect
 	github.com/onsi/ginkgo v1.7.0 // indirect
 	github.com/onsi/gomega v1.4.3 // indirect
 	github.com/opencontainers/go-digest v1.0.0-rc1 // indirect

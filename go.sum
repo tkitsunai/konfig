@@ -365,6 +365,7 @@ github.com/mitchellh/mapstructure v1.1.2 h1:fmNYVwqnSfB9mZU6OS2O6GsXM+wcskZDuKQz
 github.com/mitchellh/mapstructure v1.1.2/go.mod h1:FVVH3fgwuzCH5S8UJGiWEs2h04kUh9fWfEaFds41c1Y=
 github.com/mitchellh/pointerstructure v0.0.0-20170205204203-f2329fcfa9e2 h1:KkcG7Ppt1wn2lmtjNr55d1tG4kbDA+TDaWtuezT5WS4=
 github.com/mitchellh/pointerstructure v0.0.0-20170205204203-f2329fcfa9e2/go.mod h1:KMNPMpc0BU/kZEgyDhBplsDn/mjnJMhyMjq4MWboN20=
+github.com/mitchellh/pointerstructure v0.0.0-20190525072412-f252a8fd71c8/go.mod h1:k4XwG94++jLVsSiTxo7qdIfXA9pj9EAeo0QsNNJOLZ8=
 github.com/mitchellh/reflectwalk v1.0.0 h1:9D+8oIskB4VJBN5SFlmc27fSlIBZaov1Wpk/IfikLNY=
 github.com/mitchellh/reflectwalk v1.0.0/go.mod h1:mSTlrgnPZtwu0c4WaC2kGObEpuNDbx0jmZXqmk4esnw=
 github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd h1:TRLaZ9cD/w8PVh93nsPXa1VrQ6jlwL5oN8l14QlcNfg=
