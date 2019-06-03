@@ -14,7 +14,7 @@ require (
 	github.com/aliyun/alibaba-cloud-sdk-go v0.0.0-20190306075259-b79ded44ffd6 // indirect
 	github.com/araddon/gou v0.0.0-20190110011759-c797efecbb61 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20180720115003-f9ffefc3facf // indirect
-	github.com/aws/aws-sdk-go v1.17.11 // indirect
+	github.com/aws/aws-sdk-go v1.19.42 // indirect
 	github.com/bitly/go-hostpool v0.0.0-20171023180738-a3a6125de932 // indirect
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
 	github.com/boombuler/barcode v1.0.0 // indirect
