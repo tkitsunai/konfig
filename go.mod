@@ -26,7 +26,7 @@ require (
 	github.com/coreos/bbolt v1.3.2 // indirect
 	github.com/coreos/etcd v3.3.10+incompatible
 	github.com/coreos/go-oidc v2.0.0+incompatible // indirect
-	github.com/dancannon/gorethink v4.0.0+incompatible // indirect
+	github.com/dancannon/gorethink v4.1.0 // indirect
 	github.com/davecgh/go-spew v1.1.1
 	github.com/denisenkom/go-mssqldb v0.0.0-20190204142019-df6d76eb9289 // indirect
 	github.com/dimchansky/utfbom v1.1.0 // indirect
