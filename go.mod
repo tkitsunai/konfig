@@ -9,7 +9,7 @@ require (
 	github.com/Microsoft/go-winio v0.4.12 // indirect
 	github.com/NYTimes/gziphandler v1.1.1 // indirect
 	github.com/Nvveen/Gotty v0.0.0-20120604004816-cd527374f1e5 // indirect
-	github.com/SAP/go-hdb v0.13.2 // indirect
+	github.com/SAP/go-hdb v0.14.1 // indirect
 	github.com/SermoDigital/jose v0.9.1 // indirect
 	github.com/aliyun/alibaba-cloud-sdk-go v0.0.0-20190306075259-b79ded44ffd6 // indirect
 	github.com/araddon/gou v0.0.0-20190110011759-c797efecbb61 // indirect
