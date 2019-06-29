@@ -5,10 +5,10 @@ test-race:
 	go test -race $(shell go list ./... | grep -v /examples/ )
 
 coverage:
-	GO111MODULE=off go test ./... -cover -covermode=count -coverprofile=cover.out; GO111MODULE=off go tool cover -func cover.out;
+	GO111MODULE=on go test ./... -cover -covermode=count -coverprofile=cover.out; GO111MODULE=on go tool cover -func cover.out;
 
 coverage-html:
-	GO111MODULE=off go test ./... -cover -covermode=count -coverprofile=cover.out; GO111MODULE=off go tool cover -html=cover.out;
+	GO111MODULE=on go test ./... -cover -covermode=count -coverprofile=cover.out; GO111MODULE=on go tool cover -html=cover.out;
 
 benchmarks:
 	cd benchmarks && go test -bench . && cd ../

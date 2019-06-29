@@ -60,7 +60,7 @@ var data = []byte(`{
 
 func newGoConfig() config.Config {
 	memorySource := memory.NewSource(
-		memory.WithData(data),
+		memory.WithJson(data),
 	)
 	// Create new config
 	conf := config.NewConfig()
