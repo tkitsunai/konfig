@@ -2,7 +2,7 @@ module github.com/lalamove/konfig
 
 require (
 	contrib.go.opencensus.io/exporter/ocagent v0.4.6 // indirect
-	github.com/Azure/azure-sdk-for-go v26.2.0+incompatible // indirect
+	github.com/Azure/azure-sdk-for-go v26.7.0+incompatible // indirect
 	github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78 // indirect
 	github.com/Azure/go-autorest v11.5.1+incompatible // indirect
 	github.com/BurntSushi/toml v0.3.1
