@@ -37,8 +37,7 @@ require (
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/francoispqt/gojay v0.0.0-20181220093123-f2cc13a668ca
 	github.com/fullsailor/pkcs7 v0.0.0-20180613152042-8306686428a5 // indirect
-	github.com/gammazero/deque v0.0.0-20190130191400-2afb3858e9c7 // indirect
-	github.com/gammazero/workerpool v0.0.0-20181230203049-86a96b5d5d92 // indirect
+	github.com/gammazero/workerpool v0.0.0-20190629054424-0ed5e40ec55e // indirect
 	github.com/garyburd/redigo v1.6.0 // indirect
 	github.com/go-errors/errors v1.0.1 // indirect
 	github.com/go-ldap/ldap v3.0.2+incompatible // indirect
