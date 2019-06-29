@@ -15,8 +15,6 @@ require (
 	github.com/araddon/gou v0.0.0-20190110011759-c797efecbb61 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20180720115003-f9ffefc3facf // indirect
 	github.com/aws/aws-sdk-go v1.17.11 // indirect
-	github.com/bitly/go-hostpool v0.0.0-20171023180738-a3a6125de932 // indirect
-	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
 	github.com/boombuler/barcode v1.0.0 // indirect
 	github.com/briankassouf/jose v0.9.1 // indirect
 	github.com/cenkalti/backoff v2.1.1+incompatible // indirect
@@ -45,7 +43,7 @@ require (
 	github.com/go-sql-driver/mysql v1.4.1 // indirect
 	github.com/go-stomp/stomp v2.0.2+incompatible // indirect
 	github.com/go-test/deep v1.0.1 // indirect
-	github.com/gocql/gocql v0.0.0-20190301043612-f6df8288f9b4 // indirect
+	github.com/gocql/gocql v0.0.0-20190629054509-a325bb279f08 // indirect
 	github.com/gogo/protobuf v1.2.0 // indirect
 	github.com/golang/groupcache v0.0.0-20190129154638-5b532d6fd5ef // indirect
 	github.com/golang/mock v1.2.0
