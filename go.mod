@@ -18,7 +18,7 @@ require (
 	github.com/micro/go-config v1.1.1-0.20190603113547-03fb75f2f1e4
 	github.com/pkg/errors v0.8.1
 	github.com/prometheus/client_golang v1.0.0
-	github.com/radovskyb/watcher v1.0.6
+	github.com/radovskyb/watcher v1.0.7
 	github.com/spf13/cast v1.3.0
 	github.com/spf13/viper v1.4.0
 	github.com/stretchr/testify v1.3.0
