@@ -23,7 +23,7 @@ require (
 	github.com/spf13/viper v1.4.0
 	github.com/stretchr/testify v1.3.0
 	go.etcd.io/etcd v3.3.13+incompatible
-	golang.org/x/sys v0.0.0-20190403152447-81d4e9dc473e // indirect
+	golang.org/x/sys c178f38b412c // indirect
 	golang.org/x/text v0.3.1-0.20181227161524-e6919f6577db // indirect
 	gopkg.in/yaml.v2 v2.2.2
 )
