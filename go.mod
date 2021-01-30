@@ -11,7 +11,7 @@ require (
 	github.com/golang/mock v1.2.0
 	github.com/hashicorp/consul/api v1.1.0
 	github.com/hashicorp/go-multierror v1.0.0
-	github.com/hashicorp/vault v1.1.0
+	github.com/hashicorp/vault v1.6.2
 	github.com/jinzhu/copier v0.0.0-20180308034124-7e38e58719c3
 	github.com/kr/pty v1.1.3 // indirect
 	github.com/lalamove/nui v0.2.0
