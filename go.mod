@@ -9,7 +9,7 @@ require (
 	github.com/francoispqt/gojay v1.2.10
 	github.com/go-logfmt/logfmt v0.4.0 // indirect
 	github.com/golang/mock v1.2.0
-	github.com/hashicorp/consul/api v1.1.0
+	github.com/hashicorp/consul/api v1.8.1
 	github.com/hashicorp/go-multierror v1.0.0
 	github.com/hashicorp/vault v1.1.0
 	github.com/jinzhu/copier v0.0.0-20180308034124-7e38e58719c3
