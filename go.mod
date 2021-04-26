@@ -25,5 +25,5 @@ require (
 	go.etcd.io/etcd v3.3.13+incompatible
 	golang.org/x/sys v0.0.0-20190403152447-81d4e9dc473e // indirect
 	golang.org/x/text v0.3.1-0.20181227161524-e6919f6577db // indirect
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.4.0
 )
