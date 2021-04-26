@@ -14,7 +14,7 @@ require (
 	github.com/hashicorp/vault v1.1.0
 	github.com/jinzhu/copier v0.0.0-20180308034124-7e38e58719c3
 	github.com/kr/pty v1.1.3 // indirect
-	github.com/lalamove/nui v0.2.0
+	github.com/lalamove/nui v0.3.0
 	github.com/micro/go-config v1.1.1-0.20190603113547-03fb75f2f1e4
 	github.com/pkg/errors v0.8.1
 	github.com/prometheus/client_golang v1.0.0
