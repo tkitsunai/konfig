@@ -4,7 +4,7 @@ go 1.12
 
 require (
 	github.com/BurntSushi/toml v0.3.1
-	github.com/coreos/etcd v3.3.13+incompatible
+	github.com/coreos/etcd v3.5.0+incompatible
 	github.com/davecgh/go-spew v1.1.1
 	github.com/francoispqt/gojay v1.2.10
 	github.com/go-logfmt/logfmt v0.4.0 // indirect
